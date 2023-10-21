@@ -3,12 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mnaumann <mnaumann@student.42heilbronn.    +#+  +:+       +#+        */
+/*   By: rde-la-g <@student.42heilbronn.de >        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/21 10:48:26 by mnaumann          #+#    #+#             */
-/*   Updated: 2023/10/21 10:53:21 by mnaumann         ###   ########.fr       */
+/*   Updated: 2023/10/21 18:04:22 by rde-la-g         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+void	rush(int x, int y);
 
 int	main(void)
 {

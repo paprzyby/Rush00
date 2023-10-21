@@ -3,14 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   rush03.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rde-la-g  <@student.42heilbronn.de >       +#+  +:+       +#+        */
+/*   By: rde-la-g <@student.42heilbronn.de >        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/21 10:49:50 by rde-la-g          #+#    #+#             */
-/*   Updated: 2023/10/21 16:28:49 by rde-la-g         ###   ########.fr       */
+/*   Updated: 2023/10/21 18:04:17 by rde-la-g         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
+
+void	ft_putchar(char c);
 
 void	rush(int x, int y)
 {
